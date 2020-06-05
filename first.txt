@@ -1,7 +1,13 @@
+
 this is some changes
 This is moh (faezeh's third conflict) change
 
-changes ic maleTo branch
+this is some changes
+This is moh change
+
+changes ic maleTo branchلدد
 changing first.txt for conflict test in local
 
-added texts for second conflict in local, newSecondConflict branch
+added texts for seco conflict in local, newSecondConflict branch
+
+ I deleted persian words
