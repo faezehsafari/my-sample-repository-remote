@@ -3,3 +3,4 @@ this is some changes
 changes ic maleTo branch
 changing first.txt for conflict test in local
 
+added texts for second conflict in local, newSecondConflict branch
